@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:paddingTop="30dp" 
+    android:background="#FFFFFF">
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/primaryColour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/primary_colour"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/primary_colour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/secondaryColour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/secondary_colour"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/secondary_colour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/crownColour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crown_colour"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/crown_colour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/billLength"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bill_length"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/bill_length"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/billColour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bill_colour"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/bill_colour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/tailShape"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tail_shape"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/tail_shape"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp" >
+
+        <Button
+            android:id="@+id/submit_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/search_buttom" />
+        
+        <Button
+            android:id="@+id/testWelcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Test Register" />
+    </TableRow>
+</TableLayout>

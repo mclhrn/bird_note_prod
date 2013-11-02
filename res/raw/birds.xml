@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<birds>
+  <bird>
+    <bill_colour_id>5</bill_colour_id>
+    <bill_length_id>2</bill_length_id>
+    <breeding>Mainly a coastal breeding bird, but in Ireland the species also breeds inland on the fresh water lakes of Lough Corrib (Co. Galway) and Lough Conn (Co. Mayo). More colonies are found on the west coast with Co. Wexford, Co. Kerry, Co. Mayo and Co. Donegal having the largest number of birds. </breeding>
+    <conservation_status>Amber-listed in Ireland due to its localised breeding population. The European population is regarded as Secure.</conservation_status>
+    <crown_colour_id>1</crown_colour_id>
+    <diet>Marine fish, crustaceans and insects. </diet>
+    <id>1</id>
+    <identification>Usually seen over the sea. Slender seabird with narrow, pointed wings, long forked tail and long, pointed bill. Grey above and white below, dark cap to head. Flight light and buoyant, can hover briefly over the sea before diving in. Very similar to Common Tern (with which it breeds) and told apart by plumage and structure. Arctic Tern is smaller, with a smaller head, neck and bill and slightly narrower wings, which look forwardly placed on the body. Very short legs. Adults have a blood red bill, usually with no dark tip. The underparts are greyer than Common Tern and there some contrast with the cheek. The wing pattern is useful in separation, Arctic terns shows no dark wedge in the primaries but shows a distinct trailing edge. Arctic terns have longer tail steamers, extending beyond the wing tips. Adult winter plumage, like all terns is different from breeding plumage, but is only seen in the wintering range. Also has distinctive juvenile plumage, with some brown in the mantle, a dark carpel bar and white secondaries. Shows a distinct trailing bar to the primaries, bill darkens rapidly. </identification>
+    <image_thumb>arcticternthumb</image_thumb>
+    <image_large>arctictern</image_large>
+    <latin>Sterna paradisaea</latin>
+    <name>Arctic Tern</name>
+    <primary_colour_id>8</primary_colour_id>
+    <secondary_colour_id>3</secondary_colour_id>
+    <status>Summer visitor from March to September to all Irish coasts. Winters off south Africa and as far south as Antarctica.</status>
+    <tail_shape_id>2</tail_shape_id>
+    <where_to_see>Lady's Island Lake, near Rosslare, in County Wexford has up to 300 pairs. As well as other tern species.</where_to_see>
+    <wintering_habits>Considered to have the longest migration of all birds, utilizing the summer of both hemispheres. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>6</bill_colour_id>
+    <bill_length_id>7</bill_length_id>
+    <breeding>The breeding population is confined to the Balearic Islands in the Mediterranean.</breeding>
+    <conservation_status>Red-listed in Ireland. Balearic Shearwater is listed as Critically Endangered by BirdLife International due to its very small breeding range and population. The latter is estimated at less than 10,000 pairs, undergoing a very large decline.</conservation_status>
+    <crown_colour_id>7</crown_colour_id>
+    <diet>Balearic Shearwaters mainly feed on small fish such as Sardines, as well as squid and small crustaceans.</diet>
+    <id>2</id>
+    <identification>Slightly larger than Manx Shearwater and in all respects very similar to that species. The most noticeable differences include paler brown upperparts, as well as more extensive darker markings on the underparts (throat and vent) and wing. The white on the underparts (belly) tends to appear as an isolated patch. Balearic Shearwaters are a slightly different shape to Manx Shearwater, appearing more like a small Sooty Shearwater. Rarely, Balearic Shearwaters can be as pale as Manx Shearwater or even as dark as Sooty Shearwater.</identification>
+    <image_thumb>baelericshearwaterthumb</image_thumb>
+    <image_large>baelericshearwater</image_large>
+    <latin>Puffinus mauretanicus</latin>
+    <name>Balearic Shearwater</name>
+    <primary_colour_id>8</primary_colour_id>
+    <secondary_colour_id>7</secondary_colour_id>
+    <status>Scarce passage migrant off all Irish coasts from July to November. Rare offshore during winter and spring.</status>
+    <tail_shape_id>6</tail_shape_id>
+    <where_to_see>Coastal headlands of the south and west coasts (for example, Cape Clear) are the most reliable sites to observe Balearic Shearwaters in Ireland.</where_to_see>
+    <wintering_habits>On the open ocean of the western Mediterranean and east Atlantic.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>9</bill_colour_id>
+    <bill_length_id>9</bill_length_id>
+    <breeding>Breeds in ruined buildings, such as castles and to a lesser extent in outbuildings (barns/sheds). Will use special nest boxes. Breeding success heavily dependant on the availability of suitable prey. </breeding>
+    <conservation_status>Red-listed in Ireland due to a significant decline in the breeding population. The European population is currently evaluated as Declining.</conservation_status>
+    <crown_colour_id>9</crown_colour_id>
+    <diet>Hunts small mammals and frogs. In Ireland, found to be very dependant on Greater White-tooted Shrew with other small mammals forming a much smaller percentage of prey caught. </diet>
+    <id>2</id>
+    <identification>Rarely seen during the day, only active late at night. Most frequently seen flying across road in car head-lights. Appears a ghostly white, with no markings on the underwing - Long-eared Owl has a dark comma mark. Given a close view, shows a remarkably intricate patterning on the wings, back and head.  </identification>
+    <image_large>barnowl</image_large>
+    <image_thumb>barnowlthumb</image_thumb>
+    <latin>Tyto alba</latin>
+    <name>Barn Owl</name>
+    <primary_colour_id>2</primary_colour_id>
+    <secondary_colour_id>9</secondary_colour_id>
+    <status>Scarce resident mainly in central and southern Ireland. No longer breeds in large patches of northern, western and eastern Ireland.</status>
+    <tail_shape_id>5</tail_shape_id>
+    <where_to_see>Very difficult to observe and as such there are no regular sites to see Barn Owls. The majority of population is concentrated in the midlands and southern Ireland and is more likely to be seen here. All sightings should be reported to BirdWatch Ireland.</where_to_see>
+    <wintering_habits>Largely resident, though young birds will wander in search of new territories. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>1</bill_colour_id>
+    <bill_length_id>8</bill_length_id>
+    <breeding>This race breeds on rocky coasts and steep slopes of Greenland.</breeding>
+    <conservation_status>Amber-listed in Ireland as the majority winter at less than ten sites. The European population is considered to be Secure.</conservation_status>
+    <crown_colour_id>6</crown_colour_id>
+    <diet>Primarily grazers, feeding on grasses and sedges on the tundra during the breeding season, and on coastal pastures during the winter.</diet>
+    <id>3</id>
+    <identification>Small compact goose, with small rounded head and short black bill. It has a black neck and breast and mostly-white head, barred grey upperparts and pale underparts. Identified in flight by a strong contrast between the black breast and the whitish belly.</identification>
+    <image_large>barnaclegoose</image_large>
+    <image_thumb>barnaclegoosethumb</image_thumb>
+    <latin>Branta leucopsis</latin>
+    <name>Barnacle Goose</name>
+    <primary_colour_id>8</primary_colour_id>
+    <secondary_colour_id>7</secondary_colour_id>
+    <status>Local winter visitor from Greenland, occurring in Ireland between October and; April.</status>
+    <tail_shape_id>7</tail_shape_id>
+    <where_to_see>The most important sites are the Inishkea Islands in County Mayo and Ballintemple in County Sligo, each supporting over 2,500 birds. Trawbreaga Bay in County Donegal, Malin Head in County Donegal and Rathlin O'Birne in County Donegal also support relatively large flocks (usually 500-800 birds).</where_to_see>
+    <wintering_habits>Winters in western Scotland and Ireland. Mostly on remote islands in the northwest Ireland and western Scotland where it is relatively free from disturbance.andHighly gregarious. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>7</bill_colour_id>
+    <bill_length_id>3</bill_length_id>
+    <breeding>Breeds in northern Norway, Finland and further to the north and east.</breeding>
+    <conservation_status>Amber-listed in Ireland as the majority of the population winter at less than ten sites. The European population is considered to be Secure.</conservation_status>
+    <crown_colour_id>5</crown_colour_id>
+    <diet>Feed along the tidal edge, or in shallow water (up to 15 cm depth). They usually commence feeding on an ebbing tide, and feed continuously for up to 6 hours. Polychaete worms, particularly lugworms, form a large proportion of their diet. On the muddier estuaries, where lugworms may be absent, they take ragworms and bivalves.</diet>
+    <id>4</id>
+    <identification>At first glance resembles a smaller version of a Curlew - similar shape (long legs and neck) and plumage (grey/brown with streaking). The long, straight and slightly upturned bill, however is quite different. Summer plumaged birds occur sometimes, showing varying amounts of orange/brick red on the body feathers. Bar-tailed can easily be confused with the slightly longer-legged and more elegant Black-tailed Godwit, however in flight, Bar-tailed always shows fairly uniform, grey brown upperwings, a long white rump and a finely barred tail (Black-tailed is strongly patterned with black and white wings and tail and a square white rump). Usually seen feeding along outer shoreline of estuaries. Sometimes in large flocks.</identification>
+    <image_large>bartailedgodwit</image_large>
+    <image_thumb>bartailedgodwitthumb</image_thumb>
+    <latin>Limosa lapponica</latin>
+    <name>Bar-tailed Godwit</name>
+    <primary_colour_id>2</primary_colour_id>
+    <secondary_colour_id>3</secondary_colour_id>
+    <status>Winter visitor to coastal estuaries from October to April from Russia and Scandinavia</status>
+    <tail_shape_id>6</tail_shape_id>
+    <where_to_see>Dundalk Bay in County Louth, Dublin Bay in County Dublin, Wexford Harbour and; Slobs in County Wexford, Lough Foyle in County Derry and Strangford Lough in County Down support highest numbers (1,500-2,500 birds).</where_to_see>
+    <wintering_habits>Wintering distribution entirely coastal. They are largely confined to estuaries, with largest numbers recorded on sandy estuaries. Small numbers recorded using non-estuarine coastline.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>7</bill_colour_id>
+    <bill_length_id>3</bill_length_id>
+    <breeding>Breeds from Scandinavia eastwards across northern Asia.</breeding>
+    <conservation_status>Green-listed in Ireland. The European population has been evaluated as Secure. </conservation_status>
+    <crown_colour_id>7</crown_colour_id>
+    <diet>Feed along the tidal edge, or in shallow water (up to 15 cm depth). They usually commence feeding on an ebbing tide, and feed continuously for up to 6 hours. Polychaete worms, particularly lugworms, form a large proportion of their diet. On the muddier estuaries, where lugworms may be absent, they take ragworms and bivalves.</diet>
+    <id>5</id>
+    <identification>Very similar to Greylag Goose and care is needed to separate the two species. Bean Goose differs from Greylag Goose by having a dark brown head and neck, as well as darker orange legs. The beak colouring also differs, with Bean Goose having a mainly dark beak with orangey tip.Frequently there is a white rim surrounding the bill as in Greenland White-fronted Goose. The wings also lack the large bluey-grey patches of the Greylag Goose. Two different types of Bean Goose have occured in Ireland: Tundra Bean Goose and Taiga Bean Goose. These differ in bill structure and colouring, with Tundra having a small dark beak (similar to Pink-footed Goose), whereas Taiga has a large, mainly orange-coloured beak.</identification>
+    <image_large>beangoose</image_large>
+    <image_thumb>beangoosethumb</image_thumb>
+    <latin>Anser fabalis</latin>
+    <name>Bean Goose</name>
+    <primary_colour_id>5</primary_colour_id>
+    <secondary_colour_id>5</secondary_colour_id>
+    <status>A rare winter visitor from October to March</status>
+    <tail_shape_id>2</tail_shape_id>
+    <where_to_see>Dundalk Bay in County Louth, Dublin Bay in County Dublin, Wexford Harbour and; Slobs in County Wexford, Lough Foyle in County Derry and Strangford Lough in County Down support highest numbers (1,500-2,500 birds).</where_to_see>
+    <wintering_habits>Wintering distribution entirely coastal. They are largely confined to estuaries, with largest numbers recorded on sandy estuaries. Small numbers recorded using non-estuarine coastline.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>9</bill_colour_id>
+    <bill_length_id>9</bill_length_id>
+    <breeding>Breeds across low-lying open grassy or swampy tundra of Arctic Siberia adjacent toandpools, lakes or rivers.</breeding>
+    <conservation_status>Green-listed in Ireland. The European population has been evaluated as Secure.</conservation_status>
+    <crown_colour_id>6</crown_colour_id>
+    <diet>Plant material including tubers, shoots and leaves and they forage in water or flooded pasture.</diet>
+    <id>6</id>
+    <identification>Smallest of the three white swan species occurring in Ireland, with yellow and black bill (yellow at the base, usually rounded or square, and not reaching the nostril or extending along the sides, as in Whooper Swan). Neck also shorter than Whooper Swan.</identification>
+    <image_large>bewicksswan</image_large>
+    <image_thumb>bewicksswanthumb</image_thumb>
+    <latin>Cygnus columbianus</latin>
+    <name>Bewick's Swan</name>
+    <primary_colour_id>4</primary_colour_id>
+    <secondary_colour_id>5</secondary_colour_id>
+    <status>Increasingly rare winter visitor from Siberia from November to March at wetlands in Counties Wexford and around Lough Neagh.</status>
+    <tail_shape_id>9</tail_shape_id>
+    <where_to_see>Found mostly at Tacumshin Lake and Wexford Slobs (c. 200 birds) in County Wexford.</where_to_see>
+    <wintering_habits>Low-lying wet pasture, lakes, ponds and stubble. The majority of the European population winters in Germany, the Netherlands and Britain. One of the potential reasons that the species has declined in Ireland is that Bewick's Swans find suitable sites in these countries and no longer need to fly as far west as Ireland.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>6</bill_colour_id>
+    <bill_length_id>5</bill_length_id>
+    <breeding>Nests amongst boulders at the base of cliffs, also in rock crevices and in man made structures, such as piers. Will nest singularly and in loose colonies. </breeding>
+    <conservation_status>Amber-listed, due to concerns over the European population, which is currently regarded as Depleted due to a moderate historical decline.</conservation_status>
+    <crown_colour_id>8</crown_colour_id>
+    <diet>Marine fish and crustaceans. </diet>
+    <id>7</id>
+    <identification>A species of Auk, highly marine and only found on land in the breeding season. Smaller than Guillemot,andand only slightly bigger than Puffin. Plump and heavy at the rear end, flies with head pointing up. Strikingly distinctive in the breeding season, with an all black plumage, white upperwing patches and red feet. Can look all dark, at a distance, in the breeding season. Very different in the winter when the bird is white below with white barring above, upperwing pattern very similar to the breeding season and useful in identifying the species at that time of year.</identification>
+    <image_large>blackguillemot</image_large>
+    <image_thumb>blackguillemotthumb</image_thumb>
+    <latin>Cepphus grylle</latin>
+    <name>Black Guillemot</name>
+    <primary_colour_id>5</primary_colour_id>
+    <secondary_colour_id>8</secondary_colour_id>
+    <status>Resident along all Irish coasts.</status>
+    <tail_shape_id>8</tail_shape_id>
+    <where_to_see>Lough Swilly in County Donegal, the Aran Islands off County Galway, Bray Head and; Wicklow Head in County Wicklow, Cape Clear, County Cork and Rockabill Island, County Dublin are among the best breeding sites in Ireland.</where_to_see>
+    <wintering_habits>Winters in the vicinity of its breeding sites and can be seen inshore throughout the year. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>1</bill_colour_id>
+    <bill_length_id>3</bill_length_id>
+    <breeding>Does not breed in Ireland. The small breeding population in Britain (andlt;100 pairs) prefers bare areas in industrial estates and towns. In Continental Europe, breeds in towns, vineyards and rocky slopesin uplands. </breeding>
+    <conservation_status>Amber-listed, due to concerns over the European population, which is currently regarded as Depleted due to a moderate historical decline.</conservation_status>
+    <crown_colour_id>3</crown_colour_id>
+    <diet>Insects. Sits on exposed perch, before a hopping or flying a short distance to catch suitable prey.</diet>
+    <id>8</id>
+    <identification>About the same size as a Robin and has a similar shape. In all plumages has rusty-red undertail coverts and tail, which is frequently shivered. Adult males are a glossy black on the head, back and underparts. Has a small white patch on the primaries. Juvenile and adult females are inseperable, being a mousy grey-brown colour all over. Very similar to female/juvenile Common Redstarts in this plumage, though the latter tend to be a more beige-brown colour. </identification>
+    <image_large>blackredstart</image_large>
+    <image_thumb>blackredstartthumb</image_thumb>
+    <latin>Phoenicurus gibraltarensis</latin>
+    <name>Black Redstart</name>
+    <primary_colour_id>7</primary_colour_id>
+    <secondary_colour_id>4</secondary_colour_id>
+    <status>Scarce passage in spring and autumn, as well as a scarce winter visitor mainly to eastern and southern coasts.</status>
+    <tail_shape_id>3</tail_shape_id>
+    <where_to_see>Lough Swilly in County Donegal, the Aran Islands off County Galway, Bray Head and; Wicklow Head in County Wicklow, Cape Clear, County Cork and Rockabill Island, County Dublin are among the best breeding sites in Ireland.</where_to_see>
+    <wintering_habits>A scarce winter visitor to coastal areas in the east and south of Ireland. Frequently seen at sites which resemble their breeding habitat (exposed cliffs/rocks) with plenty of insects. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>3</bill_colour_id>
+    <bill_length_id>1</bill_length_id>
+    <breeding>Breeds throughout Ireland in many different habitats - mostly in hedgerows and gardens. Nest in trees or bushes - especially brambles and ivy, but also conifers. Will use large open-fronted nestboxes. </breeding>
+    <conservation_status>Green-listed in Ireland. The European population has been assessed as Secure.</conservation_status>
+    <crown_colour_id>5</crown_colour_id>
+    <diet>Insects, especially earthworms. Also berries and other fruit including apples. Comes to bird tables.</diet>
+    <id>9</id>
+    <identification>The commonest and most widespread member of the thrush family In Ireland. The males's all black plumage and bright yellow bill is unmistakable, however females are much browner, with speckles on the upper breast and at first glance resemble a Song Thrush. Often cocks long tail when alarmed or when running along ground.</identification>
+    <image_large>blackbird</image_large>
+    <image_thumb>blackbirdthumb</image_thumb>
+    <latin>Turdus merula</latin>
+    <name>Blackbird</name>
+    <primary_colour_id>7</primary_colour_id>
+    <secondary_colour_id>2</secondary_colour_id>
+    <status>Resident, and winter visitor from Norway, Sweden, Germany and; Denmark</status>
+    <tail_shape_id>1</tail_shape_id>
+    <where_to_see>Lough Swilly in County Donegal, the Aran Islands off County Galway, Bray Head and; Wicklow Head in County Wicklow, Cape Clear, County Cork and Rockabill Island, County Dublin are among the best breeding sites in Ireland.</where_to_see>
+    <wintering_habits>Irish breeders are largely sedentary. Migrants from the Continent arrive in autumn.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>9</bill_colour_id>
+    <bill_length_id>1</bill_length_id>
+    <breeding>Widespread but nowhere common. Grasshopper Warblers breed in young conifer plantations, rough farmland and the edges of bogs. Presence usually only noted when heard singing. </breeding>
+    <conservation_status>Green-listed in Ireland. The European population has been assessed as Secure.</conservation_status>
+    <crown_colour_id>3</crown_colour_id>
+    <diet>Grasshopper Warblers mainly feed on various insects and caterpillars. </diet>
+    <id>10</id>
+    <identification/>
+    <image_large>blackcap</image_large>
+    <image_thumb>blackcapthumb</image_thumb>
+    <latin>Sylvia atricapilla naevia</latin>
+    <name>Blackcap </name>
+    <primary_colour_id>6</primary_colour_id>
+    <secondary_colour_id>7</secondary_colour_id>
+    <status>Widespread summer visitor to Ireland from April to September.</status>
+    <tail_shape_id>7</tail_shape_id>
+    <where_to_see>Lough Swilly in County Donegal, the Aran Islands off County Galway, Bray Head and; Wicklow Head in County Wicklow, Cape Clear, County Cork and Rockabill Island, County Dublin are among the best breeding sites in Ireland.</where_to_see>
+    <wintering_habits>Winters in tropical west Africa.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>8</bill_colour_id>
+    <bill_length_id>5</bill_length_id>
+    <breeding>Breeds both on the coast and inland where they will often nest in colonies. Usually, nests on the ground in wetland areas, such as bogs and marshes and will also use man made lakes. Numbers breeding inland have declined dramatically, probably due to predation by the American Mink, which is an able swimmer and is able to access previously inaccessible nesting areas. The largest colonies in Ireland are in Northern Ireland on Lough Neagh. Colonies in the republic are not widespread, the largest are found inland in Counties Galway, Monaghan and Mayo. and at coastal sites in Counties Wexford and Donegal. </breeding>
+    <conservation_status>Red-listed due to its rapidly declining and localised breeding population. The European population is regarded as Secure, despite declines in several countries.</conservation_status>
+    <crown_colour_id>1</crown_colour_id>
+    <diet>Feeds on insects especially in arable fields. Will also exploit domestic and fisheries waste. </diet>
+    <id>11</id>
+    <identification>A small gull, slightly smaller than Common Gull. Adults are pale grey above and white below. Adults are easily told apart from other common gull species by the thick white leading edge to outer wing, which can be seen at some distance. A blackish area bordering the white leading edge of the underwing is also evident. Pointed wings, and a small tail and head in proportion to the body, along with a long neck give a distinctive profile compared to other gulls. Adults have red legs, and in summer plumage, a dark brown hood on the head; in the winter, the hood in absent and is replaced by a dark spot behind the eye. Black-headed Gulls have two age groups, and attains adult plumage after one year when it moults into adult winter plumage. Young birds just out of the nest are called juveniles and are finely patterned on the upperparts in ginger and brown and show a black tail band. First winter and first summer birds retain the wing and tail markings of the juvenile bird, but show grey on the mantle and in the first summer, a hood with a variable amount of white mixed in with the brown. Just after the bird is one year old it moults into adult winter plumage. </identification>
+    <image_large>blackheadedgull</image_large>
+    <image_thumb>blackheadedgullthumb</image_thumb>
+    <latin>Larus ridibundus</latin>
+    <name>Black-headed Gull</name>
+    <primary_colour_id>9</primary_colour_id>
+    <secondary_colour_id>2</secondary_colour_id>
+    <status>Resident along all Irish coasts, with significant numbers arriving from the Continent in winter. Breeds in small numbers on islands in larger lakes in western Ireland.</status>
+    <tail_shape_id>9</tail_shape_id>
+    <where_to_see>An easy species to see, especially in the winter. Can be seen on ploughed fields and in towns and cities. </where_to_see>
+    <wintering_habits>Irish birds are augmented by wintering birds from northern and eastern Europe and can are widespread on both on the coast and inland. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>7</bill_colour_id>
+    <bill_length_id>3</bill_length_id>
+    <breeding>Formerly bred in Ireland on Lough Funshinagh in County Roscommon. There is a small breeding population in Britain (andlt;50 pairs), with the majority of the European population centered on Central and Eastern Europe. Breeds on small well vegetated ponds and lakes.</breeding>
+    <conservation_status>The Irish population has been Red-listed due to the major decline in the breeding population. The European population has been evaluated as Secure.</conservation_status>
+    <crown_colour_id>6</crown_colour_id>
+    <diet>Mainly smaller fish species and crustaceans.</diet>
+    <id>12</id>
+    <identification>A small Grebe, similar in size to Slavonian and Little Grebes. Adult summer birds are unistakable when seen well. They have a small yellowish tuft behind the eye, with the body almost completely black - only the undersides being a reddish-brown. Adult winter Black-necked Grebes are very similar to winter Slavonian Grebes and care is needed to separate the two species. Black-necked Grebes tend to have a darker throat and less extensive white face patch. They also have a distinctly peaked crown compared to the more rounded head of Slavonian Grebe. Juvenile birds are similar to adult winter Black-necked Grebe, though can be recognised by some buffy markings on the face and throat. </identification>
+    <image_large>blackneckedgrebe</image_large>
+    <image_thumb>blackneckedgrebethumb</image_thumb>
+    <latin>Podiceps nigricollis</latin>
+    <name>Black-necked Grebe</name>
+    <primary_colour_id>4</primary_colour_id>
+    <secondary_colour_id>3</secondary_colour_id>
+    <status>Resident along all Irish coasts, with significant numbers arriving from the Continent in winter. Breeds in small numbers on islands in larger lakes in western Ireland.</status>
+    <tail_shape_id>2</tail_shape_id>
+    <where_to_see>An easy species to see, especially in the winter. Can be seen on ploughed fields and in towns and cities. </where_to_see>
+    <wintering_habits>Irish birds are augmented by wintering birds from northern and eastern Europe and can are widespread on both on the coast and inland. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>5</bill_colour_id>
+    <bill_length_id>8</bill_length_id>
+    <breeding>Breed in lowland wet grassland and marshes. Nine breeding sites were identified in Ireland during the last breeding atlas. More recently, birds were present during the breeding season between 1996 and 1999 inclusive, though breeding was not proven.</breeding>
+    <conservation_status>Amber-listedin Ireland as the majority of Black-tailed Godwits winter at less than ten sites. The European population is considered to be Vulnerable, due to past and present declinesin key populations, such as the Netherlands and Russia.</conservation_status>
+    <crown_colour_id>3</crown_colour_id>
+    <diet>Visual and tactile feeders -andfeed on a range of invertebrates, including bivalves, polychaete worms and shore crabs. Prefer to feed on muddier estuaries, but also feed in brackish pools and on nearby rough pasture. While on pasture, they feed on the larvae of crane fly (Tipulidae) and on the amphipod Corophium volutator. They have also been recorded feeding on grain in stubble fields on the Wexford Slobs. </diet>
+    <id>13</id>
+    <identification>Very similar in size and shape to Bar-tailed Godwit, but the slightly longer, straighter bill, neck and legs give it a more elegant appearance. Winter plumage is a similar greyish brown to Bar-tailed, but generally plainer, with less dark-centredandfeathers, especially on the wings. In flight, the similarities between the godwits disappears - Black-tailed shows a striking contrasty upperwing - mostly black with bold white wingbars, a square white rump and a black tail (Bar-tailed has quite uniform brown wings andanda longandwhite rump whichandextends well up the back forming aandwhite wedge). Summer plumaged or moulting birds often occur, showing varying amounts of rich orange. Typically wades in shallow water on tidal mudflats - favours the inner, more silty parts of estuaries and inlets. Can occur in large flocks of several hundred birds.</identification>
+    <image_large>blacktailedgodwit</image_large>
+    <image_thumb>blacktailedgodwitthumb</image_thumb>
+    <latin>Limosa limosa</latin>
+    <name>Black-tailed Godwit</name>
+    <primary_colour_id>8</primary_colour_id>
+    <secondary_colour_id>3</secondary_colour_id>
+    <status>Winter visitor from Iceland. Numbers remain high throughout the winter, especially September.</status>
+    <tail_shape_id>3</tail_shape_id>
+    <where_to_see>Little Brosna Callows in County Offaly, Shannon and; Fergus Estuary in County Clare, Cork Harbour in County Cork, Dundalk Bay in County Louth and Ballymacoda in County Cork support highest numbers (1,000-3,000 birds).</where_to_see>
+    <wintering_habits>Winters in a variety of habitats, both inland (particularly grassland and river deltas) and coastal (particularly estuaries), though seldom seen along non-estuarine coast.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>1</bill_colour_id>
+    <bill_length_id>3</bill_length_id>
+    <breeding>There are no confirmed breeding records from Ireland and you are less likely to see Black-throated Divers during the summer. This species breeds in Scotland, Scandinavia, andfrom Russia, east to North America.</breeding>
+    <conservation_status>Green-listed in Ireland. Listed as Vulnerable in Europe, due to its relatively small and declining breeding population. </conservation_status>
+    <crown_colour_id>3</crown_colour_id>
+    <diet>Mainly fish.</diet>
+    <id>14</id>
+    <identification>Black-throated Divers are the least common of the three diver species regularly wintering around Ireland's coastline and tend to be less gregarious, with single birds or small groups of two to three birds usually observed. In Ireland this species will usually be seen in winter plumage when the bold black and white patterns of the upper body and black throat are absent. In winter plumage at least half the neck is dark and, on the water, birds have a distinctive isolated white patch on their rearmost flanks. Look for a dagger shaped bill carried in a near horizontal position and upper body plumage that is darker than that of the other diver species, which gives the impression of a low body position in the water. Compared to Red- throated Divers, Black-throated Divers have a longer, slightly bulkier body with a more prominent cheat and a broader heavier head and thicker neck (head and neck are the same thickness) The bill is slimmer than that of Great northern Divers.</identification>
+    <image_large>blackthroateddiver</image_large>
+    <image_thumb>blackthroateddiverthumb</image_thumb>
+    <latin>Gavia arctica</latin>
+    <name>Black-throated Diver</name>
+    <primary_colour_id>1</primary_colour_id>
+    <secondary_colour_id>1</secondary_colour_id>
+    <status>A scarce winter visitor to western and northern coasts from October to April.</status>
+    <tail_shape_id>5</tail_shape_id>
+    <where_to_see>During the winter small numbers are regularly observed at bays along the west and southwest coast, with the most records coming from Inner Galway Bay (County Galway), Donegal Bay (Co. Donegal), Belfast Lough (Co. Down).</where_to_see>
+    <wintering_habits>Birds arrive from northern breeding areas in the autumn, feed in Irish waters over the winter and then return to breeding areas in the spring.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>5</bill_colour_id>
+    <bill_length_id>4</bill_length_id>
+    <breeding>Breeds throughout Ireland - prefers broad-leaved woodland, but also in farmland, parks and gardens. Nests in cavity in tree or wall. Often choosing unusual site such as a pipe or letterbox. Readily uses nestboxes. </breeding>
+    <conservation_status>Green-listed in Ireland. Listed as Vulnerable in Europe, due to its relatively small and declining breeding population. </conservation_status>
+    <crown_colour_id>9</crown_colour_id>
+    <diet>Mainly small insects, but also seeds and will readily use peanut feeder and take scraps from bird table.</diet>
+    <id>15</id>
+    <identification>A colourful, noisy, active little bird, commonly seen in gardens, especially at nut feeders and will use nestboxes. Bright blue crown, nape colllar, wings and tail and yellow underside. The white cheeks are bordered by a dark blue line - the line through the eye is separated from the blue cap by a white band - all producing a distinctive head pattern. Bill is short and stubby, legs bluish-grey. Very acrobatic, often hangs upside-down on branches pecking at buds or foraging for insects. Reqular visitor to peanut feeders and will use nestboxes. Occurs in woodland, farmland, gardens etc. Usually seen in small groups in winter and will team up with other tit species, Treecreepers and Goldcrests to form roving bands. </identification>
+    <image_large>bluetit</image_large>
+    <image_thumb>bluetitthumb</image_thumb>
+    <latin>Parus caeruleus</latin>
+    <name>Blue Tit</name>
+    <primary_colour_id>1</primary_colour_id>
+    <secondary_colour_id>6</secondary_colour_id>
+    <status>Common resident throughout Ireland.</status>
+    <tail_shape_id>6</tail_shape_id>
+    <where_to_see>During the winter small numbers are regularly observed at bays along the west and southwest coast, with the most records coming from Inner Galway Bay (County Galway), Donegal Bay (Co. Donegal), Belfast Lough (Co. Down).</where_to_see>
+    <wintering_habits>Widespread. </wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>9</bill_colour_id>
+    <bill_length_id>1</bill_length_id>
+    <breeding>Does not breed in Ireland. The Brambling is a very common breeder in Scandinavia and eastwards to Siberia.</breeding>
+    <conservation_status>Green-listed in Ireland. The European population is considered to be Secure.</conservation_status>
+    <crown_colour_id>5</crown_colour_id>
+    <diet>Feeds on seeds and spilt grain in stubble fields with other finches. Infrequent visitor to garden bird tables. </diet>
+    <id>16</id>
+    <identification>Same size as the commoner Chaffinch. Adult summer male Brambling are unmistakable, having a glossy black head and orange throat and chest. The rest of the underparts are white with some black spotting along the flanks. The bill, back and tail are black. Adultwinter males have the black on the head washed with brown and have a yellow coloured bill. Adult females largely resemble adult winter males, but have a grey-brown coloured head, with a diffuse black supercilium. Juveniles are very similar to adult females. In all ages/sexes, Bramblingshave a narrow white stripe on the back and rump, a good feature to look for in flying groups of finches.</identification>
+    <image_large>brambling</image_large>
+    <image_thumb>bramblingthumb</image_thumb>
+    <latin>Fringilla montifringilla</latin>
+    <name>Brambling</name>
+    <primary_colour_id>1</primary_colour_id>
+    <secondary_colour_id>4</secondary_colour_id>
+    <status>Winter visitor in variable numbers from November to March.</status>
+    <tail_shape_id>3</tail_shape_id>
+    <where_to_see>During the winter small numbers are regularly observed at bays along the west and southwest coast, with the most records coming from Inner Galway Bay (County Galway), Donegal Bay (Co. Donegal), Belfast Lough (Co. Down).</where_to_see>
+    <wintering_habits>Bramblings are winter visitors to Ireland, almost always associating with flocks of Chaffinches and other finches. Tends to be seen in rural areas, though will visit garden bird feeders. The numbers of Bramblings wintering in Ireland vary from year to year depending on the weather and availability of food in Continental Europe. Outside of Ireland, flocks of several million Bramblings have been recorded at favoured feeding sites in winter.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>3</bill_colour_id>
+    <bill_length_id>2</bill_length_id>
+    <breeding>Dark-bellied Brent Geese breed in the tundra of northern Siberia.</breeding>
+    <conservation_status>Green-listed in Ireland. The European population is regarded as Secure.</conservation_status>
+    <crown_colour_id>6</crown_colour_id>
+    <diet>Favoured food is eel-grass found in coastal estuaries. Dark-bellied Brent Geese also feed on other estuarine plants such as glassworts and sea aster, and to a lesser extent grasses and cereals.</diet>
+    <id>17</id>
+    <identification>Very similar to the much commoner Light-bellied Brent Goose and care is needed to separate the two species. Dark-bellied Brent can identified by the darker and much more extensive grey colouring on the flanks and back. The white flank patch that is very obvious in Light-bellied Brent Goose is reduced to a stripe along the flanks. Juvenile Light-bellied Brent similarly show a lack of a white flank patch, however these have extensive white barring on the back, which is not shown by adults. </identification>
+    <image_large>brentgoosedarkbellied</image_large>
+    <image_thumb>brentgoosedarkbelliedthumb</image_thumb>
+    <latin>Branta bernicla bernicla</latin>
+    <name>Brent Goose (dark-bellied)</name>
+    <primary_colour_id>8</primary_colour_id>
+    <secondary_colour_id>3</secondary_colour_id>
+    <status>A rare winter visitor with Light-bellied Brent Geese from October to March.</status>
+    <tail_shape_id>1</tail_shape_id>
+    <where_to_see>Where to see:andThe large flocks of Brent Geese wintering on the North Slob and Kilcoole, Co. Wicklow regularly host one or two individuals in winter.</where_to_see>
+    <wintering_habits>Wintering:andThe majority of Dark-bellied Brent Geese winter in the Netherlands, northern France and the United Kingdom. This sub-species is a rare winter visitor in Ireland, where it associates with Light-bellied Brent Geese at coastal sites (mainly estuaries).</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>6</bill_colour_id>
+    <bill_length_id>3</bill_length_id>
+    <breeding>Nests in small, loose colonies by coastal tundra, with pools and small inlets.</breeding>
+    <conservation_status>Amber-listed as the majority winter at less than ten sites. The Irish population is also internationally significant, another amber listing criterion. The European population has been evaluated as Vulnerable as several important populations declined.</conservation_status>
+    <crown_colour_id>1</crown_colour_id>
+    <diet>During the winter, it feeds mostly on eel-grass, which grows on muddy estuaries, and also on grasslands, usually when coastal supplies have been depleted at estuarine sites.</diet>
+    <id>18</id>
+    <identification>Small dark goose, with a black head, neck and breast, and dark-brown upperparts and pale underparts. Almost whitish flanks, and small white crescent on the upperparts of the neck visible at close range.</identification>
+    <image_large>brentgooselightbellied</image_large>
+    <image_thumb>brentgooselightbelliedthumb</image_thumb>
+    <latin>Branta bernicla hrota</latin>
+    <name>Brent Goose (Light-bellied)</name>
+    <primary_colour_id>1</primary_colour_id>
+    <secondary_colour_id>8</secondary_colour_id>
+    <status>Winter migrant from high-Arctic Canada. Most occur in Ireland between October and April.</status>
+    <tail_shape_id>6</tail_shape_id>
+    <where_to_see>Highest numbers (c. 30,000) are seen at Strangford Lough in Northern Ireland in October, where most congregate on arrival. Thereafter, they move to other estuarine sites. Lough Foyle in County Derry, Dublin Bay in County Dublin, Tralee Bay, Lough Gill and; Akeragh Lough in County Kerry, Rogerstown Estuary in County Dublin, Wexford Harbour and; Slobs in County Wexford are other well-used sites (1,000-3,500 birds).</where_to_see>
+    <wintering_habits>Mostly found on coastal estuaries during the autumn and early winter, and also on grasslands from mid-winter, until departure for the breeding grounds begins in late April.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>7</bill_colour_id>
+    <bill_length_id>6</bill_length_id>
+    <breeding>Does not breed in Ireland.andBuff-breasted Sandpipers breed in the extreme north of Alaska and Canada.</breeding>
+    <conservation_status>Green-listed in Ireland. The European population is considered to be Secure.</conservation_status>
+    <crown_colour_id>6</crown_colour_id>
+    <diet>Mainly worms and other insects.</diet>
+    <id>19</id>
+    <identification>Buff-breasted Sandpipers look very similar to juvenile Ruff. In comparison to Ruff, Buff-breasted Sandpiper is slightly smaller, has a shorter bill and has an all dark rump. The eye also appears larger, giving the bird a kinder expression. Otherwise has buffy brown coloured head and body, with a neat scaly pattern on the back and wings.  </identification>
+    <image_large>buffbreastedsandpiper</image_large>
+    <image_thumb>buffbreastedsandpiperthumb</image_thumb>
+    <latin>Tryngites subruficollis</latin>
+    <name>Buff-breasted Sandpiper</name>
+    <primary_colour_id>4</primary_colour_id>
+    <secondary_colour_id>4</secondary_colour_id>
+    <status>A scarce passage migrant to the south and west coasts from July to October.</status>
+    <tail_shape_id>4</tail_shape_id>
+    <where_to_see>Tacumshin Lake in County Wexford is one of the most reliable sites for Buff-breasted Sandpipers in Ireland and even Europe. Up to a dozen individuals have been recorded and andone or two individuals are usually present from late August to October.</where_to_see>
+    <wintering_habits>On the Pampas of northern Argentina, Paraguay and Brazil</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>8</bill_colour_id>
+    <bill_length_id>5</bill_length_id>
+    <breeding>Breeds throughout Ireland, usually in hedgerows and deciduous woodland. . </breeding>
+    <conservation_status>Green-listed in Ireland. The European population is considered to be Secure.</conservation_status>
+    <crown_colour_id>7</crown_colour_id>
+    <diet>Feeds mainly on the buds of native trees (Oak, Cherry, Hawthorn), as well as seeds and berries. </diet>
+    <id>20</id>
+    <identification> Named for its characteristic heavy build and thick neck, the Bullfinch is a stocky bird.At around 15cm in length they are roughly the same size as a House Sparrow, though often appear much plumper.Their distinctive thick, stubby black bills are the perfect tools both for shearing off tasty flower buds and for crushing tough seeds.Males have a glossy black cap, face, wings and tail, a pale bar on each wing, and striking white rump patch, pencil-grey back and beautiful reddish-rose breast and belly.Females look similar, save that the breast and belly are instead a greyish brown colour.Young birds are browner overall, and lack the black cap. Usually feeds quietly hidden away in a tree or shrub, usually in pairs or small groups.</identification>
+    <image_large>bullfinch</image_large>
+    <image_thumb>bullfinchthumb</image_thumb>
+    <latin>Pyrrhula pyrrhula</latin>
+    <name>Bullfinch</name>
+    <primary_colour_id>8</primary_colour_id>
+    <secondary_colour_id>7</secondary_colour_id>
+    <status>A scarce passage migrant to the south and west coasts from July to October.</status>
+    <tail_shape_id>2</tail_shape_id>
+    <where_to_see>Common and widespread throughout Ireland.</where_to_see>
+    <wintering_habits>Widespread, especially in gardens.</wintering_habits>
+  </bird>
+  <bird>
+    <bill_colour_id>7</bill_colour_id>
+    <bill_length_id>4</bill_length_id>
+    <breeding>Breeding birds are found mainly in the north and east of country, north of a line from Sligo to Wexford. The stronghold of the species is in Co. Donegal, Co. Monaghan and Co. Louth. Birds nest in trees and sometimes on cliffs, usually with access to open land including farmland, moorland and wetland. The species was absent in Ireland from the late nineteenth century until 1933, when a pair bred in Antrim. The species has spread slowly down from the north through the twentieth century </breeding>
+    <conservation_status>Green-listedandin Ireland. The European population is considered to be Secure.</conservation_status>
+    <crown_colour_id>6</crown_colour_id>
+    <diet>Takes a wide variety of prey items including small mammals, birds, rabbits, insects, earthworms and amphibians. </diet>
+    <id>21</id>
+    <identification>A medium sized raptor (bird of prey) with broad wings, a compact body, short neck and medium-length tail. Has a short hooked bill suitable for eating meat. Often seen sitting on fences and telegraph posts or soaring high in the sky, where it shows a fan shaped tail and spread outer wing feathers. Will also hang in the wind on updrafts. Flies with quick, stiff wing beats. Buzzards have very variable plumages from very dark to very light. Much of the plumage is barred. Adults are brown on the upperparts, body and underwing coverts and show a broad black band on the end of the tail and wing feathers. The rest of the underwings are whitish and finely barred. Variation in adult plumage is displayed on both the upper and under sides and some birds can be extremely pale, especially in the tail and upperwing coverts. Juvenile birds are similar to adults and also display a range of light and dark plumage variation; juveniles lack black bands on the ends of their tails and wings and some paler birds show prominent dark markings on the underwing at the carpal (wing joint).</identification>
+    <image_large>buzzard</image_large>
+    <image_thumb>buzzardthumb</image_thumb>
+    <latin>Buteo buteo</latin>
+    <name>Buzzard</name>
+    <primary_colour_id>8</primary_colour_id>
+    <secondary_colour_id>9</secondary_colour_id>
+    <status>Largely resident, though Ireland receives birds from Britain during the winter.</status>
+    <tail_shape_id>5</tail_shape_id>
+    <where_to_see>County Donegal is the main strong hold of the species in the Republic. But can be seen in open country in the east and north of the country, but it is not plentiful.</where_to_see>
+    <wintering_habits>Winters in its breeding areas but on lower ground, where prey is more plentiful than in the uplands. </wintering_habits>
+  </bird>
+</birds>
